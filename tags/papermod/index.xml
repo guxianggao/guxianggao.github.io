@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Max Gu&#39;s Knowledge Base</title>
-    <link>https://examplesite.com/</link>
-    <description>Recent content on Max Gu&#39;s Knowledge Base</description>
+    <title>PaperMod on Max Gu&#39;s Knowledge Base</title>
+    <link>https://examplesite.com/tags/papermod/</link>
+    <description>Recent content in PaperMod on Max Gu&#39;s Knowledge Base</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Aug 2022 08:40:09 +0800</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Aug 2022 08:40:09 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo搭配Github Pages发布个人网站</title>
       <link>https://examplesite.com/posts/hugo%E6%90%AD%E9%85%8Dgithub-pages%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</link>
