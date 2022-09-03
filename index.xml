@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Xianggao Gu&#39;s Knowledge Base</title>
+    <title>Max Gu&#39;s Knowledge Base</title>
     <link>https://guxianggao.github.io/</link>
-    <description>Recent content on Xianggao Gu&#39;s Knowledge Base</description>
+    <description>Recent content on Max Gu&#39;s Knowledge Base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Aug 2022 08:40:09 +0800</lastBuildDate><atom:link href="https://guxianggao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Friends</title>
+      <link>https://guxianggao.github.io/friends/</link>
+      <pubDate>Sat, 03 Sep 2022 17:32:28 +0800</pubDate>
+      
+      <guid>https://guxianggao.github.io/friends/</guid>
+      <description>⛄ Zhenghao Wu</description>
+    </item>
+    
     <item>
       <title>Hugo搭配Github Pages发布个人网站</title>
       <link>https://guxianggao.github.io/posts/hugo%E6%90%AD%E9%85%8Dgithub-pages%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</link>
