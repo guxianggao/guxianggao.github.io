@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ExampleSite</title>
+    <title>Posts on Max Gu&#39;s Knowledge Base</title>
     <link>https://examplesite.com/posts/</link>
-    <description>Recent content in Posts on ExampleSite</description>
+    <description>Recent content in Posts on Max Gu&#39;s Knowledge Base</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Aug 2022 08:40:09 +0800</lastBuildDate><atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
