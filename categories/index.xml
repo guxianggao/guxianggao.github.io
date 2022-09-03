@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Max Gu&#39;s Knowledge Base</title>
+    <title>Categories on Xianggao Gu&#39;s Knowledge Base</title>
     <link>https://guxianggao.github.io/categories/</link>
-    <description>Recent content in Categories on Max Gu&#39;s Knowledge Base</description>
+    <description>Recent content in Categories on Xianggao Gu&#39;s Knowledge Base</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://guxianggao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
